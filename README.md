@@ -8,5 +8,5 @@ A simple even/odd detection game implemented in Proteus Design Suite as an assig
 |Rastin Maleki            |[Rastin-py](https://github.com/rastin-py)                 |
 |Mohammad Hossein Mahmoudi |[Mohammadh-Mahmoudi](https://github.com/Mohammadh-Mahmoudi)|
 
-# Download
+### Download
 visit https://www.labcenter.com/ to download the required software.
